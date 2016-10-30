@@ -1,0 +1,5 @@
+Gazebo is a multirobot simulator for complex indoor and outdoor robotic simulation.
+We can simulate complex robots, robot sensors, and a variety of 3D objects. Gazebo
+already has simulation models of popular robots, sensors, and a variety of 3D objects
+in their repository (https://bitbucket.org/osrf/gazebo_models/). We can
+directly use these models without having the need to create.
